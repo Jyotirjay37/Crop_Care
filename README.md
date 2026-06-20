@@ -4,21 +4,6 @@
 
 ---
 
-## 📋 Table of Contents
-
-- [🎯 Overview](#-overview)
-- [✨ Features](#-features)
-- [🛠️ Installation](#-installation)
-- [🚀 Quick Start](#-quick-start)
-- [📖 Usage Guide](#-usage-guide)
-- [🎓 How to Use](#-how-to-use)
-- [📁 Project Structure](#-project-structure)
-- [🔧 Technologies Used](#-technologies-used)
-- [🤝 Contributing](#-contributing)
-- [📄 License](#-license)
-
----
-
 ## 🎯 Overview
 
 **Crop Care+** is an intelligent agricultural solution designed to help farmers and agricultural professionals monitor crop health, detect diseases early, and make data-driven decisions to maximize yield and sustainability.
@@ -199,41 +184,6 @@ Results include:
 
 ---
 
-## 📁 Project Structure
-
-```
-Crop_Care/
-│
-├── 📓 notebooks/                  # Jupyter notebooks
-│   ├── data_exploration.ipynb
-│   ├── model_training.ipynb
-│   └── inference.ipynb
-│
-├── 🤖 models/                     # Pre-trained models
-│   ├── crop_detection_model.h5
-│   ├── disease_classifier.h5
-│   └── confidence_estimator.h5
-│
-├── 📊 data/                       # Dataset
-│   ├── raw/
-│   ├── processed/
-│   └── labels.csv
-│
-├── 🐍 src/                        # Source code
-│   ├── crop_analyzer.py
-│   ├── image_processor.py
-│   ├── model_inference.py
-│   └── utils.py
-│
-├── 🌐 app.py                      # Streamlit web app
-├── 🎯 main.py                     # CLI entry point
-├── 📦 requirements.txt             # Dependencies
-├── 📄 README.md                   # This file
-└── 📜 LICENSE                     # License file
-```
-
----
-
 ## 🔧 Technologies Used
 
 | Technology | Purpose |
@@ -323,25 +273,11 @@ Have an idea? Open a feature request!
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
-
 ## 📞 Support & Contact
 
 - 🐛 **Issues**: [GitHub Issues](https://github.com/Jyotirjay37/Crop_Care/issues)
 - 💬 **Discussions**: [GitHub Discussions](https://github.com/Jyotirjay37/Crop_Care/discussions)
 - 👤 **Author**: [@Jyotirjay37](https://github.com/Jyotirjay37)
-
----
-
-## 🙌 Acknowledgments
-
-- 🎓 Special thanks to all contributors
-- 📚 Agricultural research datasets
-- 🤖 TensorFlow & Open Source Community
 
 ---
 
